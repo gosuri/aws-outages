@@ -1,6 +1,6 @@
 # aws-outages
 
-Simple application to display AWS Service Interuptions by Year
+Simple application to display AWS Service Outages by Year
 
 ```sh
 node app.js
@@ -9,7 +9,7 @@ node app.js
 Outputs:
 
 ```text
-AWS Service Interuptions by Year
+AWS Service Outages by Year
 
 2018: 105
 2019: 125
